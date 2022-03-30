@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Demo" src="https://github.com/danielzheng-work/danielzheng.github.io/blob/main/src/img/new_logo.png" width="100" />
+  <img alt="Demo" src="https://github.com/danielzheng-work/danielzheng.github.io/blob/main/img/new_logo.png" width="100" />
 </div>
 <h1 align="center">
  Personal Portfolio Website 
@@ -13,5 +13,5 @@
 </p> -->
 
 <div align="center">
-  <img alt="Demo" src="https://github.com/danielzheng-work/danielzheng.github.io/blob/main/src/img/homepage.JPG" />
+  <img alt="Demo" src="https://github.com/danielzheng-work/danielzheng.github.io/blob/main/img/homepage.JPG" />
 </div>
