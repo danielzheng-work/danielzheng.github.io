@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Logo" src="https://github.com/yashitanamdeo/yashitanamdeo.github.io/blob/source/src/images/logo.png" width="100" />
+  <img alt="Demo" src="https://github.com/danielzheng-work/danielzheng.github.io/blob/main/src/img/new_logo.png" width="100" />
 </div>
 <h1 align="center">
  Personal Portfolio Website 
